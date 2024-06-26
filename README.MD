@@ -31,3 +31,7 @@ In the `ascii.js` script, you can specify your phrase in place of `yourPhrase`:
 - You can experiment with different fonts by changing the font name in the `node ascii.js` command.
 
 This README.md includes the clarification that the project is built with the Figlet library.
+
+## Notes
+
+![demo](demo.gif)

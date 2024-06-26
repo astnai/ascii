@@ -3,7 +3,7 @@ const figlet = require("figlet");
 const fontName = process.argv[2] || "Standard";
 
 figlet.text(
-  "yourPhrase", // Here goes your phrase :)
+  "ASTNAI", // Here goes your phrase :)
   {
     font: fontName,
   },
