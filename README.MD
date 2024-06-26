@@ -32,6 +32,6 @@ In the `ascii.js` script, you can specify your phrase in place of `yourPhrase`:
 
 This README.md includes the clarification that the project is built with the Figlet library.
 
-## Notes
+## Demo
 
 ![demo](demo.gif)

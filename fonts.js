@@ -7,6 +7,6 @@ figlet.fonts((err, fonts) => {
     return;
   }
 
-  console.log("Available Fonts:");
+  console.log("Available fonts:");
   console.log(fonts.join("\n"));
 });
